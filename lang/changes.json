@@ -1,6 +1,6 @@
 {
-    "0.0.9": {
-        "description": "- Αρχική beta έκδοση.",
-        "files": []
+    "0.1.0": {
+        "description": "- Οι ήχοι στα quiz του cyberfield έγιναν εντονότεροι \n- Δάλογοι της Queen βελτιώθηκαν \n- Νέα γραφικά",
+        "files": ["chapter2/strings.json", "chapter2/sounds/button_sounds", "strings.json"]
     }
 }
