@@ -1,6 +1,6 @@
 {
-    "0.1.0": {
-        "description": "- Οι ήχοι στα quiz του cyberfield έγιναν εντονότεροι \n- Δάλογοι της Queen βελτιώθηκαν \n- Νέα γραφικά",
-        "files": ["chapter2/strings.json", "chapter2/sounds/button_sounds", "strings.json"]
+    "0.2.0": {
+        "description": "",
+        "files": ["chapter2/strings.json", "chapter2/sounds", "chapter2/sprites" "chapter2/sounds/button_sounds/snd_speak_and_spell_2.ogg", "strings.json"]
     }
 }
