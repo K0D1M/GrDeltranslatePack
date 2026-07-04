@@ -2,6 +2,6 @@
     "0.2.0": {
         "description": "Διάφορες προσθήκες και αλλαγές",
 		"name": "Έκδοση 0.2.0",
-        "files": ["chapter2/strings.json", "chapter2/sounds/snd_tm_quiz_b.ogg", "chapter2/sounds/snd_tm_quiz_c.ogg", "snd_tm_quiz_a.ogg", "snd_tm_quiz_d.ogg", "chapter2/sprites", "chapter2/sounds/button_sounds/snd_speak_and_spell_2.ogg", "strings.json"]
+        "files": ["chapter2/strings.json", "chapter2/sounds/snd_tm_quiz_b.ogg", "chapter2/sounds/snd_tm_quiz_c.ogg", "snd_tm_quiz_a.ogg", "snd_tm_quiz_d.ogg", "chapter2/sounds/button_sounds/snd_speak_and_spell_2.ogg", "strings.json"]
     }
 }
