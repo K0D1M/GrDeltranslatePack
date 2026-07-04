@@ -1,6 +1,6 @@
 {
     "0.2.0": {
-        "description": "",
+        "description": "Διάφορες προσθήκες και αλλαγές",
 		"name": "Έκδοση 0.2.0",
         "files": ["chapter2/strings.json", "chapter2/sounds", "chapter2/sprites",  "chapter2/sounds/button_sounds/snd_speak_and_spell_2.ogg", "strings.json"]
     }
